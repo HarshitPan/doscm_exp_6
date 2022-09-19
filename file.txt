@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-Hello World.
-SAP ID - 500095944.
+Hello World.(Master)
+SAP ID - 500095944.(Master)
+Name - Harshit Pandey(Feature)
+Roll No - 0958(Feature)
 
-This is master branch without merge...
-Second Change...
- 
+Changing from feature...
